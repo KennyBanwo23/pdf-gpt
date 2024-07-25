@@ -26,7 +26,7 @@ with st.sidebar:
     It was built using:
     - [Streamlit](https://streamlit.io/)
     - [LangChain](https://python.langchain.com/)
-    - [OpenAI](https://platform.openai.com/docs/models) LLM Model
+    - [ChatGrog](https://groq.com/) LLM Model
     '''
     )
     add_vertical_space(1)
